@@ -8,9 +8,6 @@ environment_variables:
      DATABASE_STREAMDATA_URL: sqlite:///db2.sqlite3 
      OPBEAT_ENABLED: False 
      
-artifacts:
-  files:
-    - '**/*'
 phases: 
   pre_build: 
     commands: 
