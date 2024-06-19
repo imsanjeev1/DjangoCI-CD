@@ -10,7 +10,7 @@ click==7.1.2
 clickclick==20.10.2
 colorclass==2.2.0
 configparser==3.5.0
-connexion==2.9.0
+connexion
 dataclasses==0.8
 DateTime==4.4
 distlib==0.3.8
